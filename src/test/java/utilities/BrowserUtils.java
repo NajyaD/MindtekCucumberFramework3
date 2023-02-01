@@ -71,4 +71,5 @@ public class BrowserUtils {
         UUID uuid = UUID.randomUUID();
         return uuid.toString();
     }
+
 }
